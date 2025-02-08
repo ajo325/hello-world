@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	//I believe in eating people. *chomp*
+  //I believe in eating people. *chomp*
 	//print out hello world
 	printf("Hello world!\n");
 }
