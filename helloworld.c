@@ -2,6 +2,7 @@
 
 int main(void)
 {
-//print "hello world"
-  printf("hello world\n");
+	//I believe in eating people. *chomp*
+	//print out hello world
+	printf("Hello world!\n");
 }
